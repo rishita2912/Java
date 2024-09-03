@@ -1,0 +1,27 @@
+1. Class : It defines a set of properties (attributes) and behaviors (methods) that the objects created from the class can have. 
+
+ 2. Object : The object is an instance of a class. It is an entity that has behavior and state.
+
+    Example: Dog, Cat, Monkey etc. are the object of “Animal” class. 
+
+ 3. Method : The behavior of an object is the method.
+
+    Example : The fuel indicator indicates the amount of fuel left in the car. 
+
+ 4.Instance variables : Every object has its own unique set of instance variables. The 
+    state of an object is generally created by the values that are assigned to these instance variables.
+
+ Compile it by typing “javac filename.java” in the terminal window.
+Execute (or run) it by typing “java filename” in the terminal window. 
+
+  
+  public : So that JVM can execute the method from anywhere.
+  static : The main method is to be called without an object. The modifiers are public and static can be written in either order.
+  void : The main method doesn’t return anything.
+  main() : Name configured in the JVM. The main method must be inside the class definition. The compiler executes the codes starting always from the main function.
+  String[] : The main method accepts a single argument, i.e., an array of elements of type String.
+
+   
+  Primitive Data Type: such as boolean, char, int, short, byte, long, float, and double
+  Non-Primitive Data Type or Object Data type: such as String, Array, etc.
+
