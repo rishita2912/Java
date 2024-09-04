@@ -1,7 +1,16 @@
-Java is a class-based, object-oriented programming language.Java is known for its simplicity, robustness(robustness refers to the ability of a system, process, or model to remain effective and reliable under a variety of conditions, 
-including those that are unexpected or adverse.), and security features, making it a popular choice for enterprise-level applications(Enterprise-level applications refer to software systems designed to meet the needs of large organizations
-or businesses, often across multiple departments, locations, or even countries).Java was developed by James Gosling at Sun Microsystems Inc in May 1995 and later acquired by Oracle Corporation. Java applications are compiled to byte code
-that can run on any Java Virtual Machine. The journey of this powerful programming language began in 1991 when James Gosling, Mike Sheridan, and Patrick Naughton, a team of engineers at Sun Microsystems known as the “Green Team,” set out 
+WHY JAVA? Java has many features which makes it useful in the enterprise market. We got WORA(Write Once Run Anywhere) in Java, multithreads, collection API concepts
+and exception handling.
+
+
+
+Java is a class-based, object-oriented programming language.Java is known for its simplicity, robustness(robustness refers to the ability of a system, process, or model 
+to remain effective and reliable under a variety of conditions, 
+including those that are unexpected or adverse.), and security features, making it a popular choice for enterprise-level applications(Enterprise-level applications refer 
+to software systems designed to meet the needs of large organizations
+or businesses, often across multiple departments, locations, or even countries).Java was developed by James Gosling at Sun Microsystems Inc in May 1995 and 
+later acquired by Oracle Corporation. Java applications are compiled to byte code
+that can run on any Java Virtual Machine. The journey of this powerful programming language began in 1991 when James Gosling, Mike Sheridan, and Patrick 
+Naughton, a team of engineers at Sun Microsystems known as the “Green Team,” set out 
 to create a new language initially called “Oak.” Oak was later renamed Java, inspired by Java coffee, and was first publicly released in 1996 as Java 1.0.
 
 The Java compiler (javac) converts the source code into bytecode, which is stored in a .class file. This bytecode is platform-independent and can be executed on any machine with a JVM.
