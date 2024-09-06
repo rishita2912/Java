@@ -24,6 +24,10 @@ Execute (or run) it by typing “java filename” in the terminal window.
    
   Primitive Data Type: such as boolean, char, int, short, byte, long, float, and double
   Non-Primitive Data Type or Object Data type: such as String, Array, etc.
+Ternary operator
+int num=13;
+String str=(num%2==0)?"Even":"Odd";
+System.out.println(str); //output: Odd
 
 
 
